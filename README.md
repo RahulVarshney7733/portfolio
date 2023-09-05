@@ -1,2 +1,2 @@
 # portfolio
-about me
+this repo is for my portfolio/resume
